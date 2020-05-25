@@ -1,1 +1,2 @@
-console.log("Hello World\n");
+//first draft - updated again
+console.log("OpenShift Hello World\n");
